@@ -124,9 +124,6 @@ user@DESKTOP-54M1F99 MINGW64 ~/Desktop/GIT_Assignment (Dev)
 $ git checkout -b master
 Switched to a new branch 'master'
 
-user@DESKTOP-54M1F99 MINGW64 ~/Desktop/GIT_Assignment (master)
-$ git merge master
-Already up to date.
 
 user@DESKTOP-54M1F99 MINGW64 ~/Desktop/GIT_Assignment (master)
 $ git status
